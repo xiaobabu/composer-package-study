@@ -4,7 +4,8 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Echoou\\ComposerPackageStudy\\": "src/"
+            "Echoou\\ComposerPackageStudy\\": "src/",
+            "Echoou\\ComposerPackageStudy\\Tests\\": "tests/"
         }
     },
     "authors": [
@@ -15,5 +16,7 @@
     ],
     "minimum-stability": "dev",
     "license": "MIT",
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    }
 }
