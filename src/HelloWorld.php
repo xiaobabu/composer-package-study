@@ -8,5 +8,6 @@ class HelloWorld
     {
         echo "hello world";
         echo "new";
+	echo 111;
     }
 }
