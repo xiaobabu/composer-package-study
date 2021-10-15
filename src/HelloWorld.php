@@ -8,6 +8,7 @@ class HelloWorld
     {
         echo "hello world";
         echo "new";
-	echo 111;
+	    echo 111;
+        echo "新版本";
     }
 }
