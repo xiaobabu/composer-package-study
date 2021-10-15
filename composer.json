@@ -1,6 +1,6 @@
 {
     "name": "echoou/composer-package-study",
-    "description": "this is my test",
+    "description": "让天下没有难写的php",
     "type": "library",
     "autoload": {
         "psr-4": {
